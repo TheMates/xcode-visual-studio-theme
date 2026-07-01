@@ -3,7 +3,7 @@ Xcode Visual Studio Theme
 
 This is a theme for Xcode that mimics the looks of the Visual Studio's Dark Theme.
 
-![xcode-visual-studio-theme](https://github.com/TheMates/xcode-visual-studio-theme/blob/master/theme-preview.png?raw=true)
+![xcode-visual-studio-theme](theme-preview.png?raw=true)
 
 Installation
 =======================
